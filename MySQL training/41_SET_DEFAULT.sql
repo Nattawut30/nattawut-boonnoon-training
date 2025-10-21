@@ -1,0 +1,2 @@
+ALTER TABLE products
+ALTER price SET DEFAULT 0;
