@@ -1,0 +1,3 @@
+SELECT * 
+FROM employees
+WHERE hire_date BETWEEN "2025-01-04" AND "2025-01-07";
